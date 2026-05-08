@@ -23,7 +23,7 @@ The project presents information about different wild animals, including descrip
 This project was built for learning and practice purposes, focusing on semantic HTML structure, responsive layout organization, and DOM manipulation with JavaScript.
 
 ## Credits
-Design inspirations and images were used for study purposes only.
+This project was inspired by the **Origamid** front-end course and was recreated for learning and practice purposes.
 
 ## Author
 Developed by João Vitor
